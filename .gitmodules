@@ -1,0 +1,3 @@
+[submodule "apps/CUMTD-Skill"]
+	path = apps/CUMTD-Skill
+	url = https://github.com/arahoomam/AlexaServer

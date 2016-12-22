@@ -1,0 +1,22 @@
+{
+  "name": "alexaserver",
+  "version": "1.0.0",
+  "description": "Server for Alexa Skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arahoomam/AlexaServer.git"
+  },
+  "author": "Mamoru O'Hara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arahoomam/AlexaServer/issues"
+  },
+  "homepage": "https://github.com/arahoomam/AlexaServer#readme",
+  "dependencies": {
+    "alexa-app-server": "^2.3.1"
+  }
+}
